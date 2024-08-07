@@ -16,7 +16,7 @@ I am passionate about machine learning, deep learning, and AI technologies. I ha
 
 - *Bachelor of Technology in Information Technology*
   - *Institute:* International Institute of Information Technology, Bhubaneswar
-  - *Grade:* 7.75 (4th semester)
+  - *Grade:* 7.79 (4th semester)
   - *Duration:* 2022-2026
 
 - *Post Matriculation*
